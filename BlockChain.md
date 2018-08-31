@@ -1,5 +1,13 @@
 # BlockChain
 
+## What is Geth
+Geth is a multipurpose command line tool that runs a full Ethereum node implemented in Go. We won't go in much detail as there are articles for the same.
+
+## Installation of geth
+Please follow the official documentation for the same the link is given [here](https://github.com/ethereum/go-ethereum/wiki/Installing-Geth).
+
+Without wasting anyone's time let's come to the point. Here are the steps to follow to learn some ethereum basics [web3](https://web3js.readthedocs.io/en/1.0/web3-eth.html).
+
 ## Geth Importan Stuff
 
 ### Step 1 : Create a Gensis File
